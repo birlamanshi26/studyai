@@ -72,7 +72,7 @@ Now open 👇
 🌐 Deployment (Vercel)
 
 Your project is already deployed here:
-👉 https://studyai-eight.vercel.app
+👉 (https://studyai-lyart.vercel.app)
 
 To redeploy:
 
